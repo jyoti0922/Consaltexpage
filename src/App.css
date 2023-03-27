@@ -626,6 +626,7 @@
 }
 .accordion-button {
   color: #fcfffe !important;
+  padding-left: 0px !important;
 }
 .accordion-button:not(.collapsed) {
   color: var(--bs-accordion-active-color);

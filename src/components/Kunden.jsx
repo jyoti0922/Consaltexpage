@@ -1,4 +1,3 @@
-// export default Kunden;
 import React, { useRef } from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import Slider from "react-slick";

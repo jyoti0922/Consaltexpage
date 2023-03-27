@@ -46,7 +46,7 @@ const Faq = () => {
                   <Accordion.Header className="bg-transparent">
                     Was unterscheidet euch von anderen Agenturen?
                   </Accordion.Header>
-                  <Accordion.Body className="common_para opacity_7">
+                  <Accordion.Body className="common_para opacity_7 ps-0">
                     Consaltex ist keine Agentur, sondern eine ganzheitliche
                     Unternehmensberatung. Wir helfen dir nicht nur im Marketing,
                     im Vertrieb oder in der Kundenbetreuung, sondern betrachten
@@ -61,7 +61,7 @@ const Faq = () => {
                   <Accordion.Header className="bg-transparent">
                     Brauche ich eure Hilfe?
                   </Accordion.Header>
-                  <Accordion.Body className="common_para opacity_7">
+                  <Accordion.Body className="common_para opacity_7 ps-0">
                     Consaltex ist keine Agentur, sondern eine ganzheitliche
                     Unternehmensberatung. Wir helfen dir nicht nur im Marketing,
                     im Vertrieb oder in der Kundenbetreuung, sondern betrachten
@@ -76,7 +76,7 @@ const Faq = () => {
                   <Accordion.Header className="bg-transparent">
                     Wie könnt ihr mir helfen?
                   </Accordion.Header>
-                  <Accordion.Body className="common_para opacity_7">
+                  <Accordion.Body className="common_para opacity_7 ps-0">
                     Consaltex ist keine Agentur, sondern eine ganzheitliche
                     Unternehmensberatung. Wir helfen dir nicht nur im Marketing,
                     im Vertrieb oder in der Kundenbetreuung, sondern betrachten
@@ -91,7 +91,7 @@ const Faq = () => {
                   <Accordion.Header className="bg-transparent">
                     Kann man im Internet noch neue Kunden gewinnen?
                   </Accordion.Header>
-                  <Accordion.Body className="common_para opacity_7">
+                  <Accordion.Body className="common_para opacity_7 ps-0">
                     Consaltex ist keine Agentur, sondern eine ganzheitliche
                     Unternehmensberatung. Wir helfen dir nicht nur im Marketing,
                     im Vertrieb oder in der Kundenbetreuung, sondern betrachten
@@ -106,7 +106,7 @@ const Faq = () => {
                   <Accordion.Header className="bg-transparent">
                     Gibt es eine eins-zu-eins Betreuung?
                   </Accordion.Header>
-                  <Accordion.Body className="common_para opacity_7">
+                  <Accordion.Body className="common_para opacity_7 ps-0">
                     Consaltex ist keine Agentur, sondern eine ganzheitliche
                     Unternehmensberatung. Wir helfen dir nicht nur im Marketing,
                     im Vertrieb oder in der Kundenbetreuung, sondern betrachten
