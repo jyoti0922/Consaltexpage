@@ -1,5 +1,4 @@
 import React from "react";
-import { Container, Row } from "react-bootstrap";
 import bestenlogo1 from "../asstes/images/png/besten-logo1.png";
 import bestenlogo2 from "../asstes/images/png/besten-logo2.png";
 import bestenlogo3 from "../asstes/images/png/besten-logo3.png";
